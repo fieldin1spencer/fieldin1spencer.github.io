@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Academic Work
 
-[Project 1 Title](/sample_page)
+[Public Transit Analysis Along The Wasatch Front](/pdf/SFielding_GIS5253-999_Final_Project.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
