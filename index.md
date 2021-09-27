@@ -4,8 +4,8 @@
 
 ### Academic Work
 
-[Public Transit Analysis Along The Wasatch Front](/pdf/SFielding_GIS5253-999_Final_Project.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Public Transit Analysis In Salt Lake County](/pdf/SFielding_GIS5253-999_Final_Project.pdf)
+<img src="images/County_Map_and_All_stops.png?raw=true"/>
 
 ---
 [Earthquakes in the State of Utah](/pdf/sample_presentation.pdf)
