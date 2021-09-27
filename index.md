@@ -5,15 +5,16 @@
 ### Academic Work
 
 [Public Transit Analysis In Salt Lake County](/pdf/SFielding_GIS5253-999_Final_Project.pdf)
-<img src="images/County_Map_and_All_stops.png?raw=true"/>
+<img src="images/County_Map_and_All_Stops.png?raw=true"/>
 
 ---
-[Earthquakes in the State of Utah](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+[Earthquakes in the State of Utah](/pdf/GIS_Final_Project_Paper.pdf)
+<img src="images/Final Project Map 210241024_1.png?raw=true"/>
 ---
-[NDVI imaging of Oklahoma](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+VIIRS Nightlight imaging of Iraq and Syria
+
+<img src="images/Max Nightlight grab.png?raw=true"/>
+<img src="images/Min Nightlight grab.png?raw=true"/>
 
 ---
 <!--
