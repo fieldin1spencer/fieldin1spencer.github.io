@@ -7,6 +7,8 @@
 [Public Transit Analysis In Salt Lake County](/pdf/SFielding_GIS5253-999_Final_Project.pdf)
 <img src="images/County_Map_and_All_Stops.png?raw=true"/>
 
+[![Salt Lake County Transit](images/Salt_Lake_County_Screenshot.png)](https://arcg.is/1P1Xe0)
+
 ---
 [Earthquakes in the State of Utah](/pdf/GIS_Final_Project_Paper.pdf)
 <img src="images/Final Project Map 210241024_1.png?raw=true"/>
