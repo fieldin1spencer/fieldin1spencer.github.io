@@ -13,6 +13,9 @@
 [Earthquakes in the State of Utah](/pdf/GIS_Final_Project_Paper.pdf)
 <img src="images/Final Project Map 210241024_1.png?raw=true"/>
 ---
+[Sentinel 2 Before and After Kincade Fire 2018](https://sfielding.users.earthengine.app/view/sentinel2cafiresxscomparison)
+<img src="images/Kincade_Fire_Screenshot.png?raw=true"/>
+---
 VIIRS Nightlight imaging of Iraq and Syria
 
 <img src="images/Max Nightlight grab.png?raw=true"/>
